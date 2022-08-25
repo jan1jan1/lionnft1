@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x37ef851348e12e1aacc8648e6b318641b0b85d92fe0ba2820029a070d04c34ef",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x37ef851348e12e1aacc8648e6b318641b0b85d92fe0ba2820029a070d04c34ef",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "lion nft",
+  "SYMBOL": "LNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lion-nft-jrc8e6jfup",
+  "SHOW_BACKGROUND": true
+}
